@@ -1,5 +1,10 @@
+b
 BDtata is appending automaticallt through arrows
 C
 C
 CPractising git hub, a
-
+b
+b
+B
+C
+Adding few lines in the code 
